@@ -7,7 +7,7 @@ Below is a bunch of ways to manipulate images in your repositories using the [Fi
 ## Image width: `200px width`
 Set the max image width using the `width` property on your `<img>` tag.
 
-<table>
+<table width="100%">
 <tr>
 <td>
 <picture>
