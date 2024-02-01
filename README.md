@@ -16,4 +16,4 @@ Set the max image width using the `width` property on your `<img>` tag.
 <img alt="Firestarta.dev" src=".." width="200">
 ```
 
-<div style="margin:auto">test</div>
+<div style="margin-top:100px">test</div>
