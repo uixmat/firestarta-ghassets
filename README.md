@@ -34,3 +34,7 @@ Code
 </td>
 </tr>
 </table>
+
+```html
+<img alt="alt" src="./image.png" width="200">
+```
