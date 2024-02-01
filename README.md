@@ -1,3 +1,9 @@
+<style>
+    table {
+        width: 100%;
+    }
+</style>
+
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.png">
 <img alt="Firestarta.dev" src="./assets/logo-light.png" width="320">
