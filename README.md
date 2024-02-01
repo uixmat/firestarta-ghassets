@@ -24,12 +24,12 @@ Code
 </tr>
 <tr>
 <td>
-<h3>
+<p>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.png">
 <img alt="Firestarta.dev" src="./assets/logo-light.png" width="200">
 </picture>
-</h3>
+</p>
 </td>
 <td>
 
