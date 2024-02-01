@@ -14,20 +14,6 @@ Below is a bunch of ways to manipulate images in your repositories using the [Fi
 <img alt="Firestarta.dev" src="./assets/logo-light.png">
 </picture>
 
-## Dark / Light Images
-For use in your `README.md` files to accomodate both light and dark themes.
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.png">
-<img alt="Firestarta.dev" src="./assets/logo-light.png">
-</picture>
-
-```html
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.png">
-<img alt="alt" src="./logo-light.png" width="200">
-</picture>
-```
-
 ## Image `width`
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.png">
@@ -38,8 +24,20 @@ For use in your `README.md` files to accomodate both light and dark themes.
 <img alt="alt" src="./image.png" width="200">
 ```
 
-## Image alignment
+## align center
 <div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.png">
+<img alt="Firestarta.dev" src="./assets/logo-light.png" width="200">
+</picture>
+</div>
+
+```html
+<img alt="alt" src="./image.png" width="200">
+```
+
+## align right
+<div align="right">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.png">
 <img alt="Firestarta.dev" src="./assets/logo-light.png" width="200">
