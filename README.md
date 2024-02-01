@@ -35,8 +35,8 @@ Code
 </td>
 <td>
 <!-- REMOVE THE BACKSLASHES -->
-```html
-<img alt="Firestarta.dev" src=".." width="200">
+```
+<img alt="alt" src=".." width="200">
 ```
 </td>
 </tr>
