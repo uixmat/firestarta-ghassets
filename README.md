@@ -34,9 +34,9 @@ Code
 </picture>
 </td>
 <td>
-<!-- REMOVE THE BACKSLASHES -->
+
 ```
-<img alt="alt" src=".." width="200">
+<img alt="alt" src="./image.png" width="200">
 ```
 </td>
 </tr>
