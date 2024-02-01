@@ -31,7 +31,7 @@ Code
 </picture>
 </td>
 <td>
-Set the `width` property.
+Set the <code>width</code> property.
 
 ```html
 <img alt="alt" src="./image.png" width="200">
