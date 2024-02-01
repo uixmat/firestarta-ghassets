@@ -7,16 +7,13 @@ Below is a bunch of ways to manipulate images in your repositories using the [Fi
 ### Image width
 Set the max image width using the `width` property on your `<img>` tag.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.png">
-  <img alt="Firestarta.dev" src="./assets/logo-light.png" width="200" align="ce">
-</picture>
-
 > `200px width`
 
-```html
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.png">
-  <img alt="Firestarta.dev" src="./assets/logo-light.png" width="200" align="ce">
+  <img alt="Firestarta.dev" src="./assets/logo-light.png" width="200">
 </picture>
+
+```html
+<img alt="Firestarta.dev" src=".." width="200">
 ```
