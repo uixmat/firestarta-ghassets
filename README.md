@@ -28,7 +28,6 @@ Code
 </tr>
 <tr>
 <td>
-<img width="441" height="1">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.png">
 <img alt="Firestarta.dev" src="./assets/logo-light.png" width="200">
@@ -41,4 +40,5 @@ Code
 ```
 </td>
 </tr>
+
 </table>
