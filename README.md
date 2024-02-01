@@ -17,3 +17,15 @@ Below is a bunch of ways to manipulate images in your repositories using the [Fi
 ```html
 <img alt="alt" src="./image.png" width="200">
 ```
+
+### Image alignment
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.png">
+<img alt="Firestarta.dev" src="./assets/logo-light.png" width="200">
+</picture>
+</div>
+
+```html
+<img alt="alt" src="./image.png" width="200">
+```
