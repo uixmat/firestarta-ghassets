@@ -10,18 +10,14 @@ Below is a bunch of ways to manipulate images in your repositories using the [Fi
 
 <table>
 <tr>
-<th align="left">
+<td align="left">
 <img width="441" height="1">
-<small>
-Example
-</small>
-</th>
-<th align="left">
+Image width
+</td>
+<td align="left">
 <img width="441" height="1">
-<small>
 Code
-</small>
-</th>
+</tr>
 </tr>
 <tr>
 <td>
@@ -31,12 +27,10 @@ Code
 </picture>
 </td>
 <td>
-Set the <code>width</code> property.
 
 ```html
 <img alt="alt" src="./image.png" width="200">
 ```
 </td>
 </tr>
-
 </table>
