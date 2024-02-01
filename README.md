@@ -11,27 +11,25 @@ Set the max image width using the `width` property on your `<img>` tag.
 <tr>
 <th align="left">
 <img width="441" height="1">
-<p> 
 <small>
 Image
 </small>
-</p>
 </th>
 <th align="left">
 <img width="441" height="1">
-<p> 
 <small>
 Code
 </small>
-</p>
 </th>
 </tr>
 <tr>
 <td>
+<h3>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.png">
 <img alt="Firestarta.dev" src="./assets/logo-light.png" width="200">
 </picture>
+</h3>
 </td>
 <td>
 
