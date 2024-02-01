@@ -1,3 +1,8 @@
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.png">
+<img alt="Firestarta.dev" src="./assets/logo-light.png" width="320">
+</picture>
+
 # Firestarta Assets
 > Small repo of images for giuthub readme graphics
 
@@ -24,12 +29,11 @@ Code
 </tr>
 <tr>
 <td>
-<h4>
+
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.png">
 <img alt="Firestarta.dev" src="./assets/logo-light.png" width="200">
 </picture>
-</h4>
 </td>
 <td>
 
