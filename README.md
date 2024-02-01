@@ -11,11 +11,11 @@ Below is a bunch of ways to manipulate images in your repositories using the [Fi
 <table>
 <tr>
 <td align="left">
-<img width="441" height="1">
+
 Image width
 </td>
 <td align="left">
-<img width="441" height="1">
+
 Code
 </tr>
 </tr>
