@@ -3,21 +3,18 @@
 <img alt="Firestarta.dev" src="./assets/logo-light.png" width="320">
 </picture>
 
-# Firestarta Assets
-> Small repo of images for giuthub readme graphics
+# Readme assets
 
 Below is a bunch of ways to manipulate images in your repositories using the [Firestarta](https://firestarta.dev) brand identity.
-
-
-## Image width: `200px width`
-Set the max image width using the `width` property on your `<img>` tag.
+> Images contained in this repository are property of Firestarta.dev
 
 <table>
 <tr>
 <th align="left">
 <img width="441" height="1">
 <small>
-Image
+Image width: `200px width`
+Set the max image width using the `width` property on your `<img>` tag.
 </small>
 </th>
 <th align="left">
