@@ -4,10 +4,8 @@
 Below is a bunch of ways to manipulate images in your repositories using the [Firestarta](https://firestarta.dev) brand identity.
 
 
-### Image width
+## Image width: `200px width`
 Set the max image width using the `width` property on your `<img>` tag.
-
-> `200px width`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.png">
@@ -17,3 +15,5 @@ Set the max image width using the `width` property on your `<img>` tag.
 ```html
 <img alt="Firestarta.dev" src=".." width="200">
 ```
+
+<div style="margin:auto">test</div>
