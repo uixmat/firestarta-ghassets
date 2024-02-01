@@ -24,7 +24,7 @@ Below is a bunch of ways to manipulate images in your repositories using the [Fi
 <img alt="alt" src="./image.png" width="200">
 ```
 
-## align center
+## Align center
 <div align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.png">
@@ -36,7 +36,7 @@ Below is a bunch of ways to manipulate images in your repositories using the [Fi
 <img alt="alt" src="./image.png" width="200">
 ```
 
-## align right
+## Align right
 <div align="right">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.png">
