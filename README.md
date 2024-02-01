@@ -3,5 +3,5 @@
 
 <picture width>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.png">
-  <img alt="Firestarta.dev" src="./assets/logo-light.png" style="width:200px;height:auto;">
+  <img alt="Firestarta.dev" src="./assets/logo-light.png" width="200">
 </picture>
