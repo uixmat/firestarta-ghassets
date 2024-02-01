@@ -24,7 +24,7 @@ For use in your `README.md` files to accomodate both light and dark themes.
 ```html
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.png">
-<img alt="alt" src="./image-light.png" width="200">
+<img alt="alt" src="./logo-light.png" width="200">
 </picture>
 ```
 
