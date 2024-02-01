@@ -28,10 +28,6 @@ For use in your `README.md` files to accomodate both light and dark themes.
 </picture>
 ```
 
-```html
-<img alt="alt" src="./image.png">
-```
-
 ## Image `width`
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.png">
